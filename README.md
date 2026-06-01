@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm athira</h1>
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning Kotlin
 
 - 📫 How to reach me **kjathira15@gmail.com**
 
